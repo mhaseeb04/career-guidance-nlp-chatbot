@@ -43,6 +43,5 @@ Each question is preprocessed and vectorized to compare with user queries.
 
 ## 📬 Contact
 Developed by **Muhammad Haseeb**
-- 📧 Email: khizarishtiaq59@gmail.com
 - 🌐 GitHub: https://github.com/mhaseeb04
 
